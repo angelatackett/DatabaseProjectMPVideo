@@ -1,5 +1,7 @@
 # DatabaseProject Mom & Pop Video
 
+![Course Banner](https://github.com/angelatackett/DatabaseProjectMPVideo/blob/main/MP_DB_ERD_ER-Assistant.png)
+
 DB Table scripts with accompanying drop script.
 Developed using Oracle SQL Developer for syntax reference.
 
