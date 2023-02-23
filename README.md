@@ -1,6 +1,7 @@
 # DatabaseProject Mom & Pop Video
 
-DB Table scripts with accompanying drop script
+DB Table scripts with accompanying drop script.
+Developed using Oracle SQL Developer for syntax reference.
 
 ENTITY INDEX
 - PART A DISTRIBUTOR
