@@ -41,18 +41,3 @@ END;
 
 SELECT *
 FROM Customer;
-/*
-----QUERY 5
---SET AUTOCOMMIT OFF;
---  
---ALTER TABLE xxx_rel
---DISABLE CONSTRAINT xxxx_rel;
---
---DELETE FROM customer
---WHERE cust_acct_id = 1;
---
---ALTER TABLE cust_customer_rel
---ENABLE CONSTRAINT cust_customer_rel;  
---  
---SELECT *
---FROM customer;*/
